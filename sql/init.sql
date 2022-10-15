@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS `t_order_0`(
+   `id` INT UNSIGNED AUTO_INCREMENT,
+   `order_id` INT UNSIGNED,
+   `order_name` VARCHAR(100) NOT NULL,
+   PRIMARY KEY ( `id` )
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE `t_order_1` LIKE `t_order_0`;
+
