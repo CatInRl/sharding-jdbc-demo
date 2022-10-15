@@ -1,6 +1,4 @@
-# 工程简介
+# sharding-jdbc-demo
 
-
-
-# 延伸阅读
+compatible problems in using shardingsphere-jdbc
 
